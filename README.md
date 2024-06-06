@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @elbCHEM. I am a PhD student at the Department of Chemistry at the University of Copenhagen.
 - 👀 I’m interested in Computational High-Entropy Alloys.
-- 📫 You can reach me at elb@chem.ku.dk.
 - 😄 Pronouns: He/Him
 
 <!---
