@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @elbCHEM. I am a PhD student at the Department of Chemistry at the University of Copenhagen.
+# 👋 Hi everybody! I’m @elbCHEM
+- 📚 I am a PhD student at the Department of Chemistry at the University of Copenhagen.
 - 👀 I’m interested in Computational High-Entropy Alloys.
+- 💬 I speak Danish 🇩🇰 and English 🇬🇧.
+- 💻 I mainly use Python 🐍, but also have experience with Cython, MATLAB, and C++.
 - 😄 Pronouns: He/Him
 
 <!---
